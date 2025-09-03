@@ -88,7 +88,6 @@ public class User {
                 ", email='" + email + '\'' +
                 ", mobileNumber='" + mobileNumber + '\'' +
                 ", accounts=" + accounts +
-                ", address=" + address +
                 '}';
     }
 }
