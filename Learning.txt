@@ -1,0 +1,6 @@
+From models
+
+Wherever you want to make that as immutable make it using FINAL
+Atomic integer for thread safety , learn more about thread
+Collections and modifiable , it important thing in security or encapsulation how to protect the list of object with out modifying in the class
+Object functions
